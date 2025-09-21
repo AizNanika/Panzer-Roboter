@@ -2,6 +2,5 @@
 
 class Rtos {
 public:
-    Rtos() {}
     void start() {}
 };
